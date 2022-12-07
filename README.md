@@ -1,7 +1,7 @@
 <div>
  <h2>Olá <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" />, seja Bem Vindo ! <br>
  Meu nome é <b>Vinicius</b></h2>
- Tenho 17 anos e desejo me tornar um excelente profissional de Tecnologia.<br>
+ Tenho 18 anos e desejo me tornar um excelente profissional de Tecnologia.<br>
  Estou cursando ADS na SPTech School,<br>
  Sou estagiário no Banco Safra como Desenvolvedor Full Stack.<br>
  Sou apaixonado por desafios, só assim conseguirei chegar ao patamar que foi dito anteriormente.
