@@ -2,9 +2,9 @@
  <h2>Sejam bem-vindos!</h2>
  <br>
   Meu nome é Vinicius, tenho 20 anos e sou Analista de Sistemas. </br> </br>
-  Sou fissurado por resolver desafios com soluções criativas e rentáveis. </br>
+  Sou fissurado por resolver desafios com soluções criativas e rentáveis.
 </div>
-
+</br>
 <div>
     <b>Sou especialista nas seguintes ferramentas:</b> </br> </br>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="83px"/>
