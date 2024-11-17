@@ -6,7 +6,7 @@
 </div>
 
 <div>
-    <b>Sou especialista nas seguintes ferramentas:</b>
+    <b>Sou especialista nas seguintes ferramentas:</b> </br> </br>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="83px"/>
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" width="70px"/>
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" width="100px"/>
