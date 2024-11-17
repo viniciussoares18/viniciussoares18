@@ -1,5 +1,5 @@
 <div>
- <h2>Sejam bem-vindos!</h2>
+ <h2>Sejam bem vindos!</h2>
  <br>
   Meu nome é Vinicius, tenho 20 anos e sou Analista de Sistemas. </br> </br>
   Sou fissurado por resolver desafios com soluções criativas e rentáveis.
