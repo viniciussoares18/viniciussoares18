@@ -1,11 +1,12 @@
 <div>
- <h2>Sejam bem-vindos! <br>
+ <h2>Sejam bem-vindos!</h2>
+ <br>
   Meu nome é Vinicius, tenho 20 anos e sou Analista de Sistemas. </br>
   Sou fissurado por resolver desafios com soluções criativas e rentáveis. 
 </div>
 
 <div>
-    Minhas habilidades: <br> <br>
+    Sou especialista nas seguintes ferramentas: <br> <br>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="83px"/>
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" width="70px"/>
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" width="100px"/>
